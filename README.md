@@ -1,2 +1,2 @@
 # CodeWars
-A repo to upload all the Codewars challenges solved
+A repo to upload all the Code Wars challenges solved
